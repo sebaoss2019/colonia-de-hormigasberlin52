@@ -1,0 +1,16 @@
+En linux:
+
+compilar main.cpp con g++
+Luego ejecutar con ./a.out
+
+Usando los siguientes parametros de entrada arrojaremos la solucion optima que resuelve el algoritmo.
+
+Semilla: 1
+Numero de hormigas: 10
+Factor de evaporización(alfa): 0.1
+Coeficiente heurístico(B): 2.5
+Probabilidad(q0): 0.9
+Numero de iteraciones 100
+
+OBS: Si no compila de manera adecuada en linux, en ultimo caso se podria probar directamente en cualquier compilador c++.
+
